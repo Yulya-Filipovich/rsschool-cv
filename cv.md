@@ -26,7 +26,7 @@ alert( resultSum );
 ## Education
 #### - Belarusian State University of Informatics and Radioelectronics
 #### - Course "Adukar", web-designer
-#### - **Now** Course "JS/FE Pre-School 2022Q2", front-end developer
+#### Now! - Course "JS/FE Pre-School 2022Q2", front-end developer
 
 ## English
 #### A2-B1 (I go on learning English to improve my level)
