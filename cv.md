@@ -25,7 +25,7 @@ alert( resultSum );
 
 ## Education
 #### - Belarusian State University of Informatics and Radioelectronics
-#### - Course "Adukar", web-design
+#### - Course "Adukar", web-designer
 #### - **Now** Course "JS/FE Pre-School 2022Q2", front-end developer
 
 ## English
